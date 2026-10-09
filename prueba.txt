@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Buenas, qué tal estás
+=======
+hola que tal
+>>>>>>> segunda
